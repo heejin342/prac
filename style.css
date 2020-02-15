@@ -31,7 +31,7 @@
   width: 300px;
   margin: 50px auto 0 auto; 
   /*마진은 바깥쪽, 페딩은 안쪽*/
-  padding: 50px 0 0 0;
+  padding: 150px 0 0 0;
   border: 1px solid #000;
   /*마진의 네가지 속성을 순서대로 위에서 50떨어짐. auto 는 자동정렬해서 가운데로 맞춰준다 */
 
